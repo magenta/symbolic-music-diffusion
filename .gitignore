@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+.DS_Store
+.vscode
+__pycache__
+output
+.style.yapf
+format.sh
+save
+*.mid
+checkpoints/eval
+*.wav
+experiments/
