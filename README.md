@@ -1,5 +1,5 @@
 # Symbolic Music Generation with Diffusion Models
-Supplementary code release.
+Supplementary code release for our work [Symbolic Music Generation with Diffusion Models](https://archives.ismir.net/ismir2021/paper/000058.pdf).
 
 ## Installation
 All code is written in Python 3 ([Anaconda](https://www.anaconda.com/) recommended). To install the dependencies:
@@ -66,3 +66,20 @@ python scripts/sample_audio.py
   --n_synth=1000 \
   --include_wav=True
 ```
+
+## Citing
+If you use this code please cite it as:
+
+```
+@inproceedings{
+  mittal2021symbolicdiffusion,
+  title={Symbolic Music Generation with Diffusion Models},
+  author={Gautam Mittal and Jesse Engel and Curtis Hawthorne and Ian Simon},
+  booktitle={Proceedings of the 22nd International Society for Music Information Retrieval Conference},
+  year={2021},
+  url={https://archives.ismir.net/ismir2021/paper/000058.pdf}
+}
+```
+
+## Note
+This is not an official Google product.
