@@ -206,7 +206,7 @@ tensor2tensor==1.15.7
 tensorboard==2.4.1
 tensorboard-plugin-profile==2.3.0
 tensorboard-plugin-wit==1.6.0.post3
-tensorflow==2.3.1
+tensorflow==2.11.1
 tensorflow-addons==0.10.0
 tensorflow-datasets==3.1.0
 tensorflow-estimator==2.3.0
