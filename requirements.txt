@@ -223,7 +223,7 @@ threadpoolctl==2.1.0
 tifffile==2020.6.3
 toml==0.10.1
 torch==1.5.1
-tornado==6.0.4
+tornado==6.3.3
 tqdm==4.46.1
 traitlets==4.3.3
 tsnecuda==0.1.1
