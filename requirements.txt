@@ -47,7 +47,7 @@ flatbuffers==1.12
 flax==0.3.0
 future==0.18.2
 gast==0.3.3
-gevent==20.6.2
+gevent==23.9.1
 gin-config==0.3.0
 google==3.0.0
 google-api-core==1.21.0
