@@ -144,7 +144,7 @@ parso==0.7.0
 pbr==5.4.5
 pexpect==4.8.0
 pickleshare==0.7.5
-Pillow==7.1.2
+Pillow==10.0.1
 pretty-midi==0.2.9
 prometheus-client==0.8.0
 promise==2.3
