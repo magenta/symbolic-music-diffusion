@@ -234,7 +234,7 @@ uritemplate==3.0.1
 urllib3==1.25.11
 wcwidth==0.2.4
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==3.0.1
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 yapf==0.27.0
