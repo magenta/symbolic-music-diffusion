@@ -81,7 +81,7 @@ h5py==2.10.0
 hdfs==2.5.8
 hiredis==1.1.0
 httplib2==0.17.4
-idna==2.10
+idna==3.7
 imageio==2.8.0
 importlib-metadata==1.6.1
 intervaltree==3.0.2
