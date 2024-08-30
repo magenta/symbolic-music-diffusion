@@ -135,7 +135,7 @@ oauth2client==3.0.0
 oauthlib==3.1.0
 opencensus==0.7.12
 opencensus-context==0.1.2
-opencv-python==4.2.0.34
+opencv-python==4.8.1.78
 opt-einsum==3.2.1
 packaging==20.4
 pandas==1.0.5
