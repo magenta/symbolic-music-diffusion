@@ -149,7 +149,7 @@ pretty-midi==0.2.9
 prometheus-client==0.8.0
 promise==2.3
 prompt-toolkit==3.0.5
-protobuf==3.12.2
+protobuf==4.25.8
 psutil==5.8.0
 ptyprocess==0.6.0
 py-spy==0.3.3
