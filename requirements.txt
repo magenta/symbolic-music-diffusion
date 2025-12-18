@@ -123,7 +123,7 @@ mpmath==1.1.0
 msgpack==1.0.0
 MulticoreTSNE==0.1
 multidict==4.7.6
-nbconvert==5.6.1
+nbconvert==7.16.6
 nbformat==5.0.7
 networkx==2.4
 note-seq==0.0.2
